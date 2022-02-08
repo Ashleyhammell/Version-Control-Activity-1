@@ -6,7 +6,7 @@ Anyway, I think it's all good now
 This class is the first time I've ever had to code, wild stuff. 
 Here's my repository!
 
-Top 10 Movies ever
+Top 15 Movies ever
 1. Trading Places
 2. A Mighty Wind
 3. Midnight RUn
@@ -17,3 +17,8 @@ Top 10 Movies ever
 8. Meatballs
 9. Mrs. Doubtfire
 10. Dodgeball
+11. Goodfellas
+12. Planes Trains and Automobiles
+13. Stripes
+14. American Psycho
+15. The Wolf of Wallstreet
